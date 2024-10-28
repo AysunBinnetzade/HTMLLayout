@@ -1,0 +1,33 @@
+.ALL{
+    width: 600px;
+    border: 2px solid red;
+}
+h1{
+   
+    border: 2px solid red;
+    margin: 15px;
+    padding: 10px;
+}
+.paragraf{
+    border: 2px solid red;
+    margin: 15px;
+padding: 10px;
+}
+.list{
+    border: 2px solid red;
+margin: 10px 10px 0px 10px;
+padding: 5px;
+}
+.all{
+    border: 2px solid red;
+    margin: 0px 10px 10px 10px; 
+    padding: 5px;
+}
+.button{
+    padding: 5px;
+}
+.box{
+    border: 2px solid red;
+    margin:15px;
+
+}
